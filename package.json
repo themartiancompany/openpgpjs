@@ -183,7 +183,7 @@
     "eslint-plugin-import":
       "^2.32.0",
     "eslint-plugin-jsdoc":
-      "^62.9.0",
+      "^63.1.0",
     "eslint-plugin-unicorn":
       "^64.0.0",
     "fflate":
