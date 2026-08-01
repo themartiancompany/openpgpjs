@@ -203,7 +203,7 @@
     "typescript":
       "^5.9.3",
     "typescript-eslint":
-      "^8.60.0",
+      "^8.65.0",
     "web-streams-polyfill":
       "^4.3.0"
   },
